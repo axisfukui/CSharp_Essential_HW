@@ -42,6 +42,9 @@ namespace Lesson03_pdfHW04
                     case "ZZZ-147-258-369":
                         worker = new ExpertDocumentWorker();
                         break;
+                    default:
+                        worker = new DocumentWorker();
+                        break;
                 }
 
                 switch (key)
@@ -50,9 +53,6 @@ namespace Lesson03_pdfHW04
                         isExecuting = false;
                         Console.WriteLine("Произведен выход из программы");
                         continue;
-                    default:
-                        worker = new DocumentWorker();
-                        break;
 
                 }
                 worker.OpenDocument();
