@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-//Создать класс, представляющий учебный класс ClassRoom.
+﻿//Создать класс, представляющий учебный класс ClassRoom.
 //Создайте класс ученик Pupil.В теле класса создайте методы void Study(), void Read(), void
 //Write(), void Relax().
 //Создайте 3 производных класса ExcelentPupil, GoodPupil, BadPupil от класса базового класса
@@ -14,16 +9,11 @@ using System.Threading.Tasks;
 //писать, отдыхать.
 namespace Lesson03_pdfHW02
 {
-
-    class Program
+    class Pupil
     {
-        static void Main(string[] args)
-        {
-            ClassRoom classRoom = new ClassRoom(new ExcelentPupil(), new GoodPupil(), new BadPupil(), new GoodPupil());
-
-            classRoom.GetPupilInformation();
-
-            Console.ReadLine();
-        }
+        public virtual void Study() { }
+        public virtual void Read() { }
+        public virtual void Write() { }
+        public virtual void Relax() { }
     }
 }
