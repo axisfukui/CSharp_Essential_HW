@@ -1,0 +1,6 @@
+D:\ITVDN Learning\HomeWork\CSharp_Essential\CSharp_Essential_HW\Lesson03_pdfHW_extra\bin\Debug\Lesson03_pdfHW_extra.exe.config
+D:\ITVDN Learning\HomeWork\CSharp_Essential\CSharp_Essential_HW\Lesson03_pdfHW_extra\bin\Debug\Lesson03_pdfHW_extra.exe
+D:\ITVDN Learning\HomeWork\CSharp_Essential\CSharp_Essential_HW\Lesson03_pdfHW_extra\bin\Debug\Lesson03_pdfHW_extra.pdb
+D:\ITVDN Learning\HomeWork\CSharp_Essential\CSharp_Essential_HW\Lesson03_pdfHW_extra\obj\Debug\Lesson03_pdfHW_extra.csprojAssemblyReference.cache
+D:\ITVDN Learning\HomeWork\CSharp_Essential\CSharp_Essential_HW\Lesson03_pdfHW_extra\obj\Debug\Lesson03_pdfHW_extra.exe
+D:\ITVDN Learning\HomeWork\CSharp_Essential\CSharp_Essential_HW\Lesson03_pdfHW_extra\obj\Debug\Lesson03_pdfHW_extra.pdb
