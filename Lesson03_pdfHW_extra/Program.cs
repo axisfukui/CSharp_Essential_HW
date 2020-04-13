@@ -42,7 +42,7 @@ namespace Lesson03_pdfHW_extra
     }
     class GreenPrinter : Printer
     {
-        public void Print(string value)
+        public new void Print(string value)
         {
             ConsoleColor c = Console.ForegroundColor;
             Console.ForegroundColor = ConsoleColor.Green;
