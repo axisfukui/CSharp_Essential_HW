@@ -1,0 +1,5 @@
+D:\ITVDN Learning\HomeWork\CSharp_Essential\CSharp_Essential_HW\Lesson05_HW03\bin\Debug\Lesson05_HW03.exe.config
+D:\ITVDN Learning\HomeWork\CSharp_Essential\CSharp_Essential_HW\Lesson05_HW03\bin\Debug\Lesson05_HW03.exe
+D:\ITVDN Learning\HomeWork\CSharp_Essential\CSharp_Essential_HW\Lesson05_HW03\bin\Debug\Lesson05_HW03.pdb
+D:\ITVDN Learning\HomeWork\CSharp_Essential\CSharp_Essential_HW\Lesson05_HW03\obj\Debug\Lesson05_HW03.exe
+D:\ITVDN Learning\HomeWork\CSharp_Essential\CSharp_Essential_HW\Lesson05_HW03\obj\Debug\Lesson05_HW03.pdb

@@ -1,0 +1,6 @@
+D:\ITVDN Learning\HomeWork\CSharp_Essential\CSharp_Essential_HW\Lesson05_FirstCollection\bin\Debug\Lesson05_FirstCollection.exe.config
+D:\ITVDN Learning\HomeWork\CSharp_Essential\CSharp_Essential_HW\Lesson05_FirstCollection\bin\Debug\Lesson05_FirstCollection.exe
+D:\ITVDN Learning\HomeWork\CSharp_Essential\CSharp_Essential_HW\Lesson05_FirstCollection\bin\Debug\Lesson05_FirstCollection.pdb
+D:\ITVDN Learning\HomeWork\CSharp_Essential\CSharp_Essential_HW\Lesson05_FirstCollection\obj\Debug\Lesson05_FirstCollection.csprojAssemblyReference.cache
+D:\ITVDN Learning\HomeWork\CSharp_Essential\CSharp_Essential_HW\Lesson05_FirstCollection\obj\Debug\Lesson05_FirstCollection.exe
+D:\ITVDN Learning\HomeWork\CSharp_Essential\CSharp_Essential_HW\Lesson05_FirstCollection\obj\Debug\Lesson05_FirstCollection.pdb

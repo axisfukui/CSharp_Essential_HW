@@ -1,0 +1,6 @@
+D:\ITVDN Learning\HomeWork\CSharp_Essential\CSharp_Essential_HW\Lesson04_LW01_v02\bin\Debug\Lesson04_LW01_v02.exe.config
+D:\ITVDN Learning\HomeWork\CSharp_Essential\CSharp_Essential_HW\Lesson04_LW01_v02\bin\Debug\Lesson04_LW01_v02.exe
+D:\ITVDN Learning\HomeWork\CSharp_Essential\CSharp_Essential_HW\Lesson04_LW01_v02\bin\Debug\Lesson04_LW01_v02.pdb
+D:\ITVDN Learning\HomeWork\CSharp_Essential\CSharp_Essential_HW\Lesson04_LW01_v02\obj\Debug\Lesson04_LW01_v02.csprojAssemblyReference.cache
+D:\ITVDN Learning\HomeWork\CSharp_Essential\CSharp_Essential_HW\Lesson04_LW01_v02\obj\Debug\Lesson04_LW01_v02.exe
+D:\ITVDN Learning\HomeWork\CSharp_Essential\CSharp_Essential_HW\Lesson04_LW01_v02\obj\Debug\Lesson04_LW01_v02.pdb
